@@ -1,34 +1,49 @@
 {
   "LinkGame1": [
     {
-      "urlWeb" : "https://web.telegram.org/z/#-1156966846",
+      "urlWeb" : "https://web.telegram.org/?legacy=1#/im?p=@airdropinspector",
       "actionWeb" :"Join",
-      "goToWeb" : "https://web.telegram.org/z/#-1191892125"
+      "goToWeb" : "https://web.telegram.org/?legacy=1#/im?p=@Airdrop"
     },
     {
-      "urlWeb" : "https://web.telegram.org/z/#-1191892125",
+      "urlWeb" : "https://web.telegram.org/?legacy=1#/im?p=@Airdrop",
       "actionWeb" :"Join",
-      "goToWeb" : "https://web.telegram.org/z/#-1340012275"
+      "goToWeb" : "https://web.telegram.org/?legacy=1#/im?p=@airdrop6officialchannel"
     },
      {
-      "urlWeb" : "https://web.telegram.org/z/#-1340012275",
+      "urlWeb" : "https://web.telegram.org/?legacy=1#/im?p=@airdrop6officialchannel",
       "actionWeb" :"Join",
-      "goToWeb" : "https://web.telegram.org/z/#-1380377693"
+      "goToWeb" : "https://web.telegram.org/?legacy=1#/im?p=@airdropo"
     },
      {
-      "urlWeb" : "https://web.telegram.org/z/#-1380377693",
+      "urlWeb" : "https://web.telegram.org/?legacy=1#/im?p=@airdropo",
       "actionWeb" :"Join",
-      "goToWeb" : "https://google.com"
+      "goToWeb" : "https://twitter.com/Airdrop6_com"
     },
     {
-      "urlWeb" :"https://twitter.com/Solvers_Solana",
+      "urlWeb" :"https://twitter.com/Airdrop6_com",
       "actionWeb" :"Follow",
-      "goToWeb" : "https://twitter.com/Solvers_Solana/status/1439214259582296071"
+      "goToWeb" : "https://twitter.com/CryptoTownEU"
     },
     {
-      "urlWeb" : "https://twitter.com/Solvers_Solana/status/1439214259582296071",
-      "actionWeb" :"Like",
+      "urlWeb" : "https://twitter.com/CryptoTownEU",
+      "actionWeb" :"Follow",
+      "goToWeb" : "https://twitter.com/AirdropDet"
+    },
+    {
+      "urlWeb" : "https://twitter.com/AirdropDet",
+      "actionWeb" :"Follow",
+      "goToWeb" : "https://twitter.com/AirdropStario"
+    },
+    {
+      "urlWeb" : "https://twitter.com/AirdropStario",
+      "actionWeb" :"Follow",
+      "goToWeb" : "https://twitter.com/airdropinspect"
+    },
+    {
+      "urlWeb" : "https://twitter.com/airdropinspect",
+      "actionWeb" :"Follow",
       "goToWeb" : "https://google.com"
-    }    
+    }
   ]
 }
