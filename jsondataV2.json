@@ -1,0 +1,49 @@
+{
+  "LinkGame1": [
+    {
+      "urlWeb": "https://web.telegram.org/z/#-1156966846",
+      "actionWeb": "Join",
+      "goToWeb": "https://web.telegram.org/z/#-1191892125"
+    },
+    {
+      "urlWeb": "https://web.telegram.org/z/#-1191892125",
+      "actionWeb": "Join",
+      "goToWeb": "https://web.telegram.org/z/#-1340012275"
+    },
+    {
+      "urlWeb": "https://web.telegram.org/z/#-1340012275",
+      "actionWeb": "Join",
+      "goToWeb": "https://web.telegram.org/z/#-1380377693"
+    },
+    {
+      "urlWeb": "https://web.telegram.org/z/#-1380377693",
+      "actionWeb": "Join",
+      "goToWeb": "https://twitter.com/Airdrop6_com"
+    },
+    {
+      "urlWeb": "https://twitter.com/Airdrop6_com",
+      "actionWeb": "Follow",
+      "goToWeb": "https://twitter.com/CryptoTownEU"
+    },
+    {
+      "urlWeb": "https://twitter.com/CryptoTownEU",
+      "actionWeb": "Follow",
+      "goToWeb": "https://twitter.com/AirdropDet"
+    },
+    {
+      "urlWeb": "https://twitter.com/AirdropDet",
+      "actionWeb": "Follow",
+      "goToWeb": "https://twitter.com/AirdropStario"
+    },
+    {
+      "urlWeb": "https://twitter.com/AirdropStario",
+      "actionWeb": "Follow",
+      "goToWeb": "https://twitter.com/airdropinspect"
+    },
+    {
+      "urlWeb": "https://twitter.com/airdropinspect",
+      "actionWeb": "Follow",
+      "goToWeb": "https://google.com"
+    }
+  ]
+}
