@@ -1,19 +1,23 @@
 {
   "LinkGame1": [
     {
-      "urlWeb": "https://web.telegram.org/z/#-1156966846",
-      "actionWeb": "Join",
-      "goToWeb": "https://web.telegram.org/z/#-1191892125"
+      "urlBeginTelegram": "https://t.me/airdropinspector",
+      "urlBeginTwitter" : "https://twitter.com/Airdrop6_com",
     },
     {
-      "urlWeb": "https://web.telegram.org/z/#-1191892125",
+      "urlWeb": "https://web.telegram.org/z/#-1156966846",
       "actionWeb": "Join",
-      "goToWeb": "https://web.telegram.org/z/#-1340012275"
+      "goToWeb": "https://t.me/airdrop6officialchannel"
     },
     {
       "urlWeb": "https://web.telegram.org/z/#-1340012275",
       "actionWeb": "Join",
-      "goToWeb": "https://web.telegram.org/z/#-1380377693"
+      "goToWeb": "https://t.me/Airdrop"
+    },
+    {
+      "urlWeb": "https://web.telegram.org/z/#-1191892125",
+      "actionWeb": "Join",
+      "goToWeb": "https://t.me/airdropo"
     },
     {
       "urlWeb": "https://web.telegram.org/z/#-1380377693",
