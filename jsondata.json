@@ -3,15 +3,15 @@
     {
       "urlWeb" : "https://web.telegram.org/?legacy=1#/im?p=@SolversSOL",
       "actionWeb" :"Join",
-    }
+    },
     {
       "urlWeb" : "https://web.telegram.org/?legacy=1#/im?p=@SolversSOL2",
       "actionWeb" :"Join",
-    }
+    },
     {
       "urlWeb" :"https://twitter.com/Solvers_Solana",
       "actionWeb" :"Follow",
-    }
+    },
     {
       "urlWeb" : "https://twitter.com/Solvers_Solana/status/1439214259582296071",
       "actionWeb" :"Like",
