@@ -9,15 +9,10 @@
   ],
   "LinkBegin": [
     "https://twitter.com/Airdrop6_com",
-    "https://web.telegram.org/?legacy=1#/im?p=c1574162861_2150390267932591794"
+    "https://web.telegram.org/?legacy=1#/im?p=@airdropinspector"
   ],
   "LinkTelegram": [
     {
-      "urlWeb" : "https://web.telegram.org/?legacy=1#/im?p=c1574162861_2150390267932591794",
-      "actionWeb" :"Join",
-      "goToWeb" : "https://web.telegram.org/?legacy=1#/im?p=@airdropinspector"
-    },
-     {
       "urlWeb" : "https://web.telegram.org/?legacy=1#/im?p=@airdropinspector",
       "actionWeb" :"Join",
       "goToWeb" : "https://web.telegram.org/?legacy=1#/im?p=@Airdrop"
