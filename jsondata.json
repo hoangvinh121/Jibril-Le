@@ -1,10 +1,6 @@
 {
   "LinkTelegram": [
-    {
-      "urlBeginTelegram" : "https://web.telegram.org/?legacy=1#/im?p=@airdropinspector",
-      "urlBeginTwitter" :"https://twitter.com/Airdrop6_com"
-    },
-    {
+     {
       "urlWeb" : "https://web.telegram.org/?legacy=1#/im?p=@airdropinspector",
       "actionWeb" :"Join",
       "goToWeb" : "https://web.telegram.org/?legacy=1#/im?p=@Airdrop"
