@@ -1,0 +1,35 @@
+{
+  "LinkBegin": [
+    "https://twitter.com/Airdrop6_com",
+    "https://web.telegram.org/?legacy=1#/im?p=c1574162861_2150390267932591794"
+  ],
+  "LinkTelegram": [
+    {
+      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=c1574162861_2150390267932591794",
+      "actionWeb": "Join",
+      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@airdropinspector"
+    },
+    {
+      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@airdropinspector",
+      "actionWeb": "Join",
+      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@Airdrop"
+    }
+  ],
+  "LinkTwitter": [
+    {
+      "urlWeb": "https://twitter.com/Airdrop6_com",
+      "actionWeb": "Follow",
+      "goToWeb": "https://twitter.com/CryptoTownEU"
+    },
+    {
+      "urlWeb": "https://twitter.com/CryptoTownEU",
+      "actionWeb": "Follow",
+      "goToWeb": "https://twitter.com/AirdropDet"
+    },
+    {
+      "urlWeb": "https://twitter.com/AirdropDet",
+      "actionWeb": "Follow",
+      "goToWeb": "https://twitter.com/AirdropStario"
+    }
+  ]
+}
