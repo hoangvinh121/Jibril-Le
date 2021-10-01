@@ -1,5 +1,5 @@
 {
-  "LinkGame1": [
+  "LinkTelegram": [
     {
       "urlBeginTelegram" : "https://web.telegram.org/?legacy=1#/im?p=@airdropinspector",
       "urlBeginTwitter" :"https://twitter.com/Airdrop6_com"
@@ -22,8 +22,10 @@
      {
       "urlWeb" : "https://web.telegram.org/?legacy=1#/im?p=@airdropo",
       "actionWeb" :"Join",
-      "goToWeb" : "https://twitter.com/Airdrop6_com"
-    },
+      "goToWeb" : "https://web.telegram.org/?legacy=1#/"
+    }
+  ],
+  "LinkTwitter": [
     {
       "urlWeb" :"https://twitter.com/Airdrop6_com",
       "actionWeb" :"Follow",
