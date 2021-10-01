@@ -1,9 +1,5 @@
 {
-  "LinkGame1": [
-    {
-      "urlBeginTelegram": "https://t.me/airdropinspector",
-      "urlBeginTwitter" : "https://twitter.com/Airdrop6_com"
-    },
+  "LinkTelegram": [
     {
       "urlWeb": "https://web.telegram.org/z/#-1156966846",
       "actionWeb": "Join",
@@ -24,6 +20,8 @@
       "actionWeb": "Join",
       "goToWeb": "https://web.telegram.org/z/#-1574162861"
     },
+  ],
+  "LinkTwitter": [
     {
       "urlWeb": "https://twitter.com/Airdrop6_com",
       "actionWeb": "Follow",
