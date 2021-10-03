@@ -1,5 +1,5 @@
 {
-  "UserData": [
+  "UserData": {
     {
       "userTwitter": "jibrille121",
       "linkTwitter": "https://twitter.com/jibrille121",
@@ -33,5 +33,5 @@
       "TRC20_Add": "Vi Trc20 truclinh",
       "SOL_Add": "Vi Sol truclinh"
     }
-  ]
+}
 }
