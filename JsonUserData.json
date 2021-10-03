@@ -2,36 +2,33 @@
   "UserData": [
     {
       "userTwitter": "jibrille121",
-      "linkTwitter": "https://twitter.com/jibrille121",
       "email": "thienhoang121@gmail.com",
       "userTelegram": "thienhoang121_telegram",
       "userReddit": "thienhoang121_Reddit",
       "userDiscord": "thienhoang121_Discord",
-      "ERC20_Add": "Vi Erc20",
-      "TRC20_Add": "Vi Trc20",
-      "SOL_Add": "Vi Sol"
+      "ERC20_Add": "0x2636dBD361EBBff0352d6120A69aC8Ea254426b6",
+      "TRC20_Add": "THfmZmFcpAnWYS579ms3LTkGZzYKWoC9uL",
+      "SOL_Add": "5UjDKR8VWpaX9q5jB9tnQigi22zJ6KrgzS3P9XVDP4BQ"
     },
     {
       "userTwitter": "hoangvinh121",
-      "linkTwitter": "https://twitter.com/hoangvinh121",
       "email": "hoangvinh121@gmail.com",
       "userTelegram": "hoangvinh121_telegram",
       "userReddit": "hoangvinh121_Reddit",
       "userDiscord": "hoangvinh121_Discord",
-      "ERC20_Add": "Vi Erc20 hoang vinh",
-      "TRC20_Add": "Vi Trc20 hoang vinh",
-      "SOL_Add": "Vi Sol  hoang vinh"
+      "ERC20_Add": "0x60f52C30Cf1c87bfc062226199d112E29A2CcFad",
+      "TRC20_Add": "TUbnwGFDm2FiU24wg7uNRK52LdqoMxmXrE",
+      "SOL_Add": "4QByhn7hsxWUygYbJkuAmxHFvz6WbaeWmcq6u4iatZ7b"
     },
     {
       "userTwitter": "truclinh",
-      "linkTwitter": "https://twitter.com/truclinh",
       "email": "truclinh121@gmail.com",
       "userTelegram": "truclinh_telegram",
       "userReddit": "truclinh_Reddit",
       "userDiscord": "truclinh_Discord",
-      "ERC20_Add": "Vi Erc20 truclinh",
-      "TRC20_Add": "Vi Trc20 truclinh",
-      "SOL_Add": "Vi Sol truclinh"
+      "ERC20_Add": "0x8f80F8568f3E0A51f806cf0EF25319EF2a7806A6",
+      "TRC20_Add": "TTP9thJVBGjTUkGttB7jvTYfnjp17MXPzR",
+      "SOL_Add": "Azgn6rMrNerG1masNFApr29tLPiSQ1JZkpm4tAvw1AG9"
     }
 ]
 }
