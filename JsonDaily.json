@@ -1,4 +1,15 @@
 {
+  "AutoText" : [
+    "Join",
+    "TwitterName",
+    "TwitterLink",
+    "LinkRetweet",
+    "TelegramUser",
+    "Done",
+    "Join",
+    "WalletAddress",
+    "Skip",
+  ],
   "WalletName" : "ERC20_Add",
   "LinkBegin": [
     "https://twitter.com/Airdrop6_com",
