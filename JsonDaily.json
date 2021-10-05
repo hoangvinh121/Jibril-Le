@@ -1,14 +1,14 @@
 {
   "AutoText" : [
-    "Join",
+    "I have joined",
     "TwitterName",
     "TwitterLink",
     "LinkRetweet",
     "TelegramUser",
     "Done",
-    "Join",
+    "Joined",
     "WalletAddress",
-    "Skip"
+    "Skip the optional task"
   ],
   "WalletName" : "ERC20_Add",
   "LinkBegin": [
