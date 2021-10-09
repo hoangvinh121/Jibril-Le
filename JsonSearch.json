@@ -1,5 +1,6 @@
 {
-  "SoLanSearch": 3,
+  "SoLanSearchMin": 2,
+  "SoLanSearchMax": 5,
   "SoGiayDelay": 15,
   "TukhoaSearch": [
     "Facebook",
