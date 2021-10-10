@@ -1,5 +1,6 @@
 {
   "SoLanSearchMin": 2,
+  "AutoSearch": false,
   "SoLanSearchMax": 5,
   "SoGiayDelay": 120,
   "SoGiayResetConnect": 130,
