@@ -1,5 +1,5 @@
 {
-  "AutoSearch": false,
+  "AutoSearch": true,
   "SoLanSearchMin": 1,
   "SoLanSearchMax": 3,
   "SoGiayCloseWindow": 150,
