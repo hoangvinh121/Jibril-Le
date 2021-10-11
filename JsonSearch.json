@@ -2,7 +2,7 @@
   "AutoSearch": false,
   "SoLanSearchMin": 1,
   "SoLanSearchMax": 3,
-  "SoGiayDelay": 150,
+  "SoGiayCloseWindow": 150,
   "SoGiayResetConnect": 160,
   "TukhoaSearch": [
     "Facebook",
