@@ -4,13 +4,15 @@
   "SoLanSearchMax": 3,
   "SoGiayCloseWindow": 150,
   "SoGiayResetConnect": 150,
-  "TukhoaSearch": [
-    "Facebook",
-    "Bitcoin price",
-    "Etherum price",
-    "Pandora",
-    "Pokemon unite",
-    "Airdrop",
-    "Game NFT"
-  ]
+  "TukhoaSearch": {
+    "Game Mobile" : ["Liên Minh Huyền Thoại: Tốc Chiến","Game Area F2","Auto Chess Mobile","War Robots","Pokemon Unite","Survival Heroes","Warface Mobile","Cyber Hunter","Tân Thiên Long Mobile","Battle Prime Online","Thục Sơn Kỳ Hiệp","Pubg Mobile","Call of Duty Mobile","One Punch Man: The Strongest","Hải Tặc Bá Vương","Land of Doran","FIFA 20 Mobile","Genshin Impact","Sky: Children of the Light","Pokemon Cafe Mix","bảo bối đại chiến"],
+    "Movie" :["Honeydew","Can You Bring It: Bill T. Jones and D-Man in the Waters","Cliff Walkers","The Vigil","Supernova Film","The Dig","I Carry You With Me","Plan B Trailer","The Mitchells vs. The Machines Netflix","Lucifer season 6","The Switcher seaon 2","The Killing of Two Lovers", "Shangchi trailer", "The Card Counter trailer","Night of the Kings Trailer", "A Glitch in the Matrix Trailer","Palmer Film","Cruella film","Godzilla vs. Kong Film","Shadow in the Cloud Film","Black Widow Film" ],
+    "Tv Series": ["Squid Game","Midnight Mass Trailer","The Chair Trailer","High on the Hog trailer", "The Underground Railroad Trailer", "Lucifer Trailer","WandaVision Trailer","Loki Season 1","Mare of Easttown Trailer","Pretend It's a City","Cobra Kai","Succession season 3","Hawkeye trailer","Tiger King 2 (Netflix)","Cowboy Bebop (Netflix)","Stranger Things season 4 trailer","Bridgerton season 2", "The Expanse (Amazon Prime Video)","Insecure season 5","The Witcher season 2","The Wheel of Time","The Sandman","The Great season 2","Black Mafia Family","The Book of Boba Fett","Ozark season 4","Dexter: New Blood ","Marvel's What If...?","Atlanta season 3"],
+    "Sport": ["Manchester United", "Christian Ronaldo","quả bóng vàng 2021", "Messi","FC Barcelona", "Real Marid","Ngoai hạng anh","Bồ Đào Nha","Đội tuyển Việt Nam","Đội tuyển Anh ","Tennis Indian Wells","Bóng đá Việt Nam","World Cup 2022"],
+    "Anime":["Beastars (Season 2)","Fruits Basket: The Final","Horimiya","Jujutsu Kaisen","Megalobox 2: Nomad","Onepiece Anime","Naruto Anime","Dragon Ball","My Hero Academia","Sk8 The Infinity","Star Wars: Visions","Tokyo Revengers","Vlad Love","Godzilla: Singular Point","Attack of Titan","Pokémon Movie","Inuyasha","Detective Conan","Death Note anime","JoJo’s Bizarre Adventure","Neon Genesis Evangelion","Demon Slayer: Kimetsu no Yaiba"],
+    "Game PC" : ["Diablo II Resurrected","Assassin's Creed Valhalla","Adventures of Pip", "Hades","Batman: Arkham City","Bayonetta","Blazing Chrome","Ninja Gaiden: Master Collection","Darksiders III","Dead Island (PC)","Ghostrunner","Immortals Fenyx Rising","Lego Batman 3: Beyond Gotham","Lego Marvel Super Heroes","Diablo III (PC)","BlueStack","NoxPlayer","Metal Gear Rising: Revengeance","Nioh 2: Complete Edition","Life Is Strange: True Colors","The Witcher 3: Wild Hunt","Control Game","Hitman 3 Game","Monster Hunter World","Death Stranding","Mass Effect Legendary Edition","Doom: Eternal","Sekiro: Shadows Die Twice","Fortnite Battle Royale","Paradise Lost"],
+    "Coin":  ["Binance","Coinmarketcap","Bitcoin","DEFI","Game NFT","Swap Coin","Solana Wallet","Etherum","Cardano","XRP coin","Binance Coin","USDT","USDC","UniSwap","FTX Token","Airdrop Coin","Top NFT","coingecko","Token","Dogecoin price","Trust Wallet","Sol address","Internet Computer","Shiba Inu","Matic Wallet"],
+    "News": ["Bão số 8","Phạm Băng Băng","Vietjet","Bamboo Airline","Thủy Tiên","Tiêm vaccine COVID-19","Các loại vaccine COVID-19","Vaccine Shinopharm", "Vaccine Pfizer","Vaccine Mordena","Vaccine Sputnik V","từ thiện thủy tiên","Tin covid","Oto Vinfast","Mercedes c300","hyundai elantra", "Honda Civic","Subaru", "BMW i8","tesla model X"],
+    "Technolory": ["Android 12","LG Gram 16", "Iphone 13","Xiaomi 11T","Google Pixel 6","iPad mini 6","Nitendo Switch","Playstation 5","Galaxy Fold 3","Asus x Noctua RTX 3070","Samsung Galaxy Note 20","Samsung Galaxy S21 Ultra 5G 128GB","Realme GT Neo2T","Apple Watch Series 7","Top 5 Nokia phone 2021","IOS 15","Samsung Galaxy A52s 5G","SSD price","MSI Delta 15","Windows 11","MS Office 2021"]
+  }
 }
