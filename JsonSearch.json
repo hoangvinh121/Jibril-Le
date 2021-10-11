@@ -1,7 +1,7 @@
 {
   "AutoSearch": true,
-  "SoLanSearchMin": 1,
-  "SoLanSearchMax": 3,
+  "SoLanSearchMin": 2,
+  "SoLanSearchMax": 4,
   "SoGiayCloseWindow": 150,
   "SoGiayResetConnect": 150,
   "TukhoaSearch": {
