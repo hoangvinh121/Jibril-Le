@@ -1,9 +1,9 @@
 {
-  "SoLanSearchMin": 2,
   "AutoSearch": false,
-  "SoLanSearchMax": 5,
-  "SoGiayDelay": 120,
-  "SoGiayResetConnect": 130,
+  "SoLanSearchMin": 1,
+  "SoLanSearchMax": 3,
+  "SoGiayDelay": 150,
+  "SoGiayResetConnect": 160,
   "TukhoaSearch": [
     "Facebook",
     "Bitcoin price",
