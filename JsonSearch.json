@@ -3,7 +3,7 @@
   "SoLanSearchMin": 1,
   "SoLanSearchMax": 3,
   "SoGiayCloseWindow": 150,
-  "SoGiayResetConnect": 160,
+  "SoGiayResetConnect": 150,
   "TukhoaSearch": [
     "Facebook",
     "Bitcoin price",
