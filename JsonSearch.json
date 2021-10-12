@@ -4,6 +4,7 @@
   "SoLanSearchMax": 4,
   "SoGiayCloseWindow": 150,
   "SoGiayResetConnect": 150,
+  "keyFolder": ["Anime","Game Mobile","Movie","Tv Series","Sport","Game PC","Coin","News","Technolory"],
   "TukhoaSearch": {
     "Game Mobile" : ["Liên Minh Huyền Thoại: Tốc Chiến","Game Area F2","Auto Chess Mobile","War Robots","Pokemon Unite","Survival Heroes","Warface Mobile","Cyber Hunter","Tân Thiên Long Mobile","Battle Prime Online","Thục Sơn Kỳ Hiệp","Pubg Mobile","Call of Duty Mobile","One Punch Man: The Strongest","Hải Tặc Bá Vương","Land of Doran","FIFA 20 Mobile","Genshin Impact","Sky: Children of the Light","Pokemon Cafe Mix","bảo bối đại chiến"],
     "Movie" :["Honeydew","Can You Bring It: Bill T. Jones and D-Man in the Waters","Cliff Walkers","The Vigil","Supernova Film","The Dig","I Carry You With Me","Plan B Trailer","The Mitchells vs. The Machines Netflix","Lucifer season 6","The Switcher seaon 2","The Killing of Two Lovers", "Shangchi trailer", "The Card Counter trailer","Night of the Kings Trailer", "A Glitch in the Matrix Trailer","Palmer Film","Cruella film","Godzilla vs. Kong Film","Shadow in the Cloud Film","Black Widow Film" ],
