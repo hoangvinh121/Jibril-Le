@@ -1,48 +1,46 @@
 {
   "AutoText" : [
-    "I have joined",
-    "TwitterName",
-    "TwitterLink",
-    "LinkRetweet",
-    "TelegramUser",
     "Done",
-    "Joined",
-    "WalletAddress",
-    "Skip the optional task"
+    "TwitterLink",
+    "DiscordUser",
+    "Done",
+    "Yes",
   ],
   "WalletName" : "ERC20_Add",
   "UrlRetweet":"https://twitter.com/PlayTTK/status/",
   "LinkBegin": [
-    "https://twitter.com/Airdrop6_com",
-    "https://web.telegram.org/?legacy=1#/im?p=c1574162861_2150390267932591794"
+    "https://twitter.com/PlayTTK",
+    "https://web.telegram.org/?legacy=1#/im?p=@PlayTTK",
+    "https://discord.com/invite/kg4SMdCCM5",
+    "https://www.youtube.com/c/AirdropInspector",
   ],
   "LinkTelegram": [
     {
-      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=c1574162861_2150390267932591794",
+      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@PlayTTK",
       "actionWeb": "Join",
-      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@airdropinspector"
+      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@TTK_Official"
     },
     {
-      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@airdropinspector",
+      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@TTK_Official",
       "actionWeb": "Join",
-      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@Airdrop"
+      "goToWeb": "https://web.telegram.org/k/"
     }
   ],
   "LinkTwitter": [
     {
-      "urlWeb": "https://twitter.com/Airdrop6_com",
+      "urlWeb": "https://twitter.com/PlayTTK",
       "actionWeb": "Follow",
-      "goToWeb": "https://twitter.com/CryptoTownEU"
+      "goToWeb": "https://twitter.com/airdropinspect/status/1446415073627435012"
     },
     {
-      "urlWeb": "https://twitter.com/CryptoTownEU",
-      "actionWeb": "Follow",
+      "urlWeb": "https://twitter.com/airdropinspect/status/1446415073627435012",
+      "actionWeb": "Retweet",
       "goToWeb": "https://twitter.com/AirdropDet"
     },
     {
-      "urlWeb": "https://twitter.com/AirdropDet",
-      "actionWeb": "Follow",
-      "goToWeb": "https://twitter.com/AirdropStario"
+      "urlWeb": "https://twitter.com/PlayTTK/status/1447569694760652814,
+      "actionWeb": "Like",
+      "goToWeb": "https://twitter.com/"
     }
   ]
 }
