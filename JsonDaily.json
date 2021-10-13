@@ -6,6 +6,7 @@
     "Done",
     "Yes"
   ],
+  "AutoHide" : ["conTwitterName","conRetweetLink","conTelegram","conEmail","conReddit","conMedium","conIJoined","conSkip","conJoined"],
   "WalletName" : "ERC20_Add",
   "UrlRetweet":"https://twitter.com/PlayTTK/status/",
   "LinkBegin": [
