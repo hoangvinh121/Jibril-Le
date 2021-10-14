@@ -6,45 +6,40 @@
     "Done",
     "Yes"
   ],
-  "AutoHide" : ["conTwitterName","conRetweetLink","conTelegram","conEmail","conReddit","conMedium","conIJoined","conSkip","conJoined"],
+  "AutoHide" : ["conTwitterName","conRetweetLink","conTelegram","conEmail","conReddit","conIJoined","conSkip","conJoined"],
   "WalletName" : "ERC20_Add",
-  "UrlRetweet":"https://twitter.com/PlayTTK/status/",
-  "UrlRef":"https://t.me/v2ttk_bot?start=r04242585311",
-  "UrlRefBot":"https://web.telegram.org/?legacy=1#/im?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dv2ttk_bot%26start%3Dr04242585311",
-  "UrlBot":"https://web.telegram.org/?legacy=1#/im?p=@v2ttk_bot",
+  "UrlRetweet":"https://twitter.com/IOEN_tech/status/",
+  "UrlRef":"https://t.me/IOEN_token_bot?start=r06177533411",
+  "UrlRefBot":"https://web.telegram.org/?legacy=1#/im?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DIOEN_token_bot%26start%3Dr06177533411",
+  "UrlBot":"https://web.telegram.org/?legacy=1#/im?p=@IOEN_token_bot",
   "LinkBegin": [
-    "https://twitter.com/PlayTTK",
+    "https://twitter.com/IOEN_tech",
     "https://coinbase.com/nft/announce/1QQBM1",
-    "https://discord.com/invite/kg4SMdCCM5",
+    "https://medium.com/internet-of-energy-network",
     "https://www.youtube.com/c/AirdropInspector",
-    "https://web.telegram.org/?legacy=1#/im?p=@PlayTTK"
+    "https://web.telegram.org/?legacy=1#/im?p=@IOEN_global"
 
   ],
   "LinkTelegram": [
     {
-      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@PlayTTK",
+      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@IOEN_global",
       "actionWeb": "Join",
-      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@TTK_Official"
-    },
-    {
-      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@TTK_Official",
-      "actionWeb": "Join",
-      "goToWeb": "https://t.me/v2ttk_bot?start=r04242585311"
+      "goToWeb": "https://t.me/IOEN_token_bot?start=r06177533411"
     }
   ],
   "LinkTwitter": [
     {
-      "urlWeb": "https://twitter.com/PlayTTK",
+      "urlWeb": "https://twitter.com/IOEN_tech",
       "actionWeb": "Follow",
-      "goToWeb": "https://twitter.com/airdropinspect/status/1446415073627435012"
+      "goToWeb": "https://twitter.com/airdropinspect/status/1448054192493383684"
     },
     {
-      "urlWeb": "https://twitter.com/airdropinspect/status/1446415073627435012",
+      "urlWeb": "https://twitter.com/airdropinspect/status/1448054192493383684",
       "actionWeb": "Retweet",
-      "goToWeb": "https://twitter.com/PlayTTK/status/1448255127622651907"
+      "goToWeb": "https://twitter.com/IOEN_tech/status/1448559668641468416"
     },
     {
-      "urlWeb": "https://twitter.com/PlayTTK/status/1448255127622651907",
+      "urlWeb": "https://twitter.com/IOEN_tech/status/1448559668641468416",
       "actionWeb": "Like",
       "goToWeb": "https://twitter.com/"
     }
