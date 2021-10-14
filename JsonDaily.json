@@ -9,6 +9,7 @@
   "AutoHide" : ["conTwitterName","conRetweetLink","conTelegram","conEmail","conReddit","conMedium","conIJoined","conSkip","conJoined"],
   "WalletName" : "ERC20_Add",
   "UrlRetweet":"https://twitter.com/PlayTTK/status/",
+  "UrlBot":"https://web.telegram.org/?legacy=1#/im?p=@v2ttk_bot",
   "LinkBegin": [
     "https://twitter.com/PlayTTK",
     "https://discord.com/invite/kg4SMdCCM5",
@@ -25,7 +26,7 @@
     {
       "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@TTK_Official",
       "actionWeb": "Join",
-      "goToWeb": "https://web.telegram.org/k/"
+      "goToWeb": "https://web.telegram.org/?legacy=1#/im?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dv2ttk_bot%26start%3Dr04242585311"
     }
   ],
   "LinkTwitter": [
