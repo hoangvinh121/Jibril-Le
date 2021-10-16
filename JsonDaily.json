@@ -6,35 +6,37 @@
     "Done",
     "Yes"
   ],
-  "AutoHide" : ["conTwitterName","conRetweetLink","conTelegram","conEmail","conDiscord","conReddit","conIJoined","conSkip","conJoined"],
+  "AutoHide" : ["conTwitterLink","conRetweetLink","conTelegram","conEmail","conDiscord","conMedium","conReddit","conYes","conDone","conIJoined","conSkip","conJoined"],
   "WalletName" : "ERC20_Add",
   "UrlRetweet":"https://twitter.com/IOEN_tech/status/",
-  "UrlRef":"https://t.me/IOEN_token_bot?start=r06177533411",
-  "UrlRefBot":"https://web.telegram.org/?legacy=1#/im?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DIOEN_token_bot%26start%3Dr06177533411",
-  "UrlBot":"https://web.telegram.org/?legacy=1#/im?p=@IOEN_token_bot",
+  "UrlRef":"https://t.me/DracoVerseAirdropBot?start=2044943333",
+  "UrlRefBot":"https://web.telegram.org/?legacy=1#/im?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DDracoVerseAirdropBot%26start%3D2044943333",
+  "UrlBot":"https://web.telegram.org/?legacy=1#/im?p=@DracoVerseAirdropBot",
   "UrlMedium":"https://medium.com/internet-of-energy-network",
   "LinkBegin": [
-    "https://twitter.com/airdropinspect/status/1448054192493383684",
-    "https://medium.com/internet-of-energy-network",
-    "https://www.youtube.com/c/AirdropInspector",
-    "https://web.telegram.org/?legacy=1#/im?p=@IOEN_global"
-
+    "https://twitter.com/Draco_Verse",
+    "https://web.telegram.org/?legacy=1#/im?p=@dracoverse_official"
   ],
   "LinkTelegram": [
     {
-      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@IOEN_global",
+      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@dracoverse_official",
       "actionWeb": "Join",
-      "goToWeb": "https://t.me/IOEN_token_bot?start=r06177533411"
+      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@dracoverse_ann"
+    },
+    {
+      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@dracoverse_ann",
+      "actionWeb": "Join",
+      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@airdrop6community"
+    },
+    {
+      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@airdrop6community",
+      "actionWeb": "Join",
+      "goToWeb": "https://t.me/DracoVerseAirdropBot?start=2044943333"
     }
   ],
   "LinkTwitter": [
     {
-      "urlWeb": "https://twitter.com/airdropinspect/status/1448054192493383684",
-      "actionWeb": "Retweet",
-      "goToWeb": "https://twitter.com/IOEN_tech"
-    },
-    {
-      "urlWeb": "https://twitter.com/IOEN_tech",
+      "urlWeb": "https://twitter.com/Draco_Verse",
       "actionWeb": "FollowLike",
       "goToWeb": "https://twitter.com/"
     }
