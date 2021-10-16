@@ -6,7 +6,7 @@
     "Done",
     "Yes"
   ],
-  "AutoHide" : ["conTwitterName","conTwitterLink","conRetweetLink","conMedium","conYes","conDone","conIJoined","conSkip","conJoined"],
+  "AutoHide" : ["conTwitterName","conTwitterLink","conYoutube","conRetweetLink","conMedium","conYes","conDone","conIJoined","conSkip","conJoined"],
   "WalletName" : "ERC20_Add",
   "UrlRetweet":"https://twitter.com/IOEN_tech/status/",
   "UrlRef":"https://t.me/DracoVerseAirdropBot?start=2044943333",
