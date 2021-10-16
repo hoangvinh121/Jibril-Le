@@ -35,12 +35,7 @@
   "LinkTwitter": [
     {
       "urlWeb": "https://twitter.com/TheSpartansBSC",
-      "actionWeb": "Follow",
-      "goToWeb": "https://twitter.com/TheSpartansBSC/status/1446892117733752835"
-    },
-     {
-      "urlWeb": "https://twitter.com/TheSpartansBSC/status/1446892117733752835",
-      "actionWeb": "Retweet",
+      "actionWeb": "FollowLike",
       "goToWeb": "https://twitter.com/"
     }
   ]
