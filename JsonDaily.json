@@ -6,7 +6,7 @@
     "Done",
     "Yes"
   ],
-  "AutoHide" : ["conTwitterLink","conRetweetLink","conTelegram","conEmail","conDiscord","conMedium","conReddit","conYes","conDone","conIJoined","conSkip","conJoined"],
+  "AutoHide" : ["conTwitterName","conTwitterLink","conRetweetLink","conMedium","conYes","conDone","conIJoined","conSkip","conJoined"],
   "WalletName" : "ERC20_Add",
   "UrlRetweet":"https://twitter.com/IOEN_tech/status/",
   "UrlRef":"https://t.me/DracoVerseAirdropBot?start=2044943333",
@@ -14,30 +14,33 @@
   "UrlBot":"https://web.telegram.org/?legacy=1#/im?p=@DracoVerseAirdropBot",
   "UrlMedium":"https://medium.com/internet-of-energy-network",
   "LinkBegin": [
-    "https://twitter.com/Draco_Verse",
-    "https://web.telegram.org/?legacy=1#/im?p=@dracoverse_official"
+    "https://web.telegram.org/?legacy=1#/im?p=@thespartanscommunity",
+    "https://twitter.com/TheSpartansBSC",
+    "https://www.reddit.com/user/TheSpartansBSC/",
+    "https://discord.io/TheSpartans",
+    "https://wn.nr/ZCsrGv"
   ],
   "LinkTelegram": [
     {
-      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@dracoverse_official",
+      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@thespartanscommunity",
       "actionWeb": "Join",
-      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@dracoverse_ann"
+      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@thespartanschannel"
     },
     {
-      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@dracoverse_ann",
+      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@thespartanschannel",
       "actionWeb": "Join",
-      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@airdrop6community"
-    },
-    {
-      "urlWeb": "https://web.telegram.org/?legacy=1#/im?p=@airdrop6community",
-      "actionWeb": "Join",
-      "goToWeb": "https://t.me/DracoVerseAirdropBot?start=2044943333"
+      "goToWeb": "https://web.telegram.org/?legacy=1#/im?p=@thespartanschannel"
     }
   ],
   "LinkTwitter": [
     {
-      "urlWeb": "https://twitter.com/Draco_Verse",
+      "urlWeb": "https://twitter.com/TheSpartansBSC",
       "actionWeb": "FollowLike",
+      "goToWeb": "https://twitter.com/TheSpartansBSC/status/1446892117733752835"
+    },
+     {
+      "urlWeb": "https://twitter.com/TheSpartansBSC/status/1446892117733752835",
+      "actionWeb": "Retweet",
       "goToWeb": "https://twitter.com/"
     }
   ]
